@@ -96,11 +96,14 @@ http://localhost:8501
 
 ## 📸 Application Screenshots
 
-Add screenshots of:
-- Main application interface
-- Image upload and camera capture
-- ASCII conversion results
-- Color ASCII output
+### 1. Main Interface
+![Main Interface](screenshots/main-interface.png)
+
+### 2. ASCII Conversion Output
+![ASCII Output](screenshots/ascii-output.png)
+
+### 3. Color ASCII Output
+![Color ASCII Output](screenshots/color-output.png)
 
 ## 🔮 Future Enhancements
 
